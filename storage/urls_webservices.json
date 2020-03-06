@@ -105,6 +105,6 @@
         "producao": "",
         "version": "1.00",
         "msgns": "http:\/\/www.abrasf.org.br\/nfse.xsd",
-        "soapns": "http:\/\/www.nfe.com.br"
+        "soapns": "http:\/\/www.e-governeapps2.com.br"
     }
 }
